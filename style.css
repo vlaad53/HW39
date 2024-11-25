@@ -1,0 +1,46 @@
+.body {
+    background-image: url(./img/fon.jpg);
+}
+
+.shop {
+    
+}
+
+.navbar-nav  {
+   gap: 40px;
+   
+}
+
+.d-flex {
+    margin-right: 280px;
+}
+
+.text-center {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: #000000;
+font-family: "Source Sans Pro";
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; 
+letter-spacing: 1.6px;
+text-transform: uppercase;
+}
+
+.card-body {
+    background-color: white;
+}
+
+.card-body:hover {
+    background-color: blanchedalmond;
+}
+
+.nav-item:hover{
+    background-color: gray;
+    border-radius: 45%;
+}
+
+.container-fluid {
+    
+}
